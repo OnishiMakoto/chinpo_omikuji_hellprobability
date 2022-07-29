@@ -21,7 +21,7 @@
         const n = Math.random();
         if(n < 0.01){
             btn.textContent = 'ぽ';
-        } else if (n < 0.001){
+        } else if (n < 0.00){
             btn.textContent = 'ちんぽ!!';
         } else if (n < 0.4){
             btn.textContent = 'ん';
